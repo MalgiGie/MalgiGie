@@ -4,4 +4,4 @@ I am an ambitious IT student at Gdańsk University of Technology (currently seve
 
 - 🔭 I’m currently working on my engineering thesis that concerns the impact of artificial intelligence on the development of IT projects.
 - 🌱 I’m currently learning PyTorch and Kotlin
-- 📫 How to reach me: feel free to contact me via linkedin or e-mail
+- 📫 How to reach me: feel free to contact me via linkedin
